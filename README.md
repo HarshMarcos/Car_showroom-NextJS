@@ -1,3 +1,11 @@
+![cs-1](https://github.com/HarshMarcos/Car_showroom-NextJS/assets/98093623/b2cc096b-cbe7-4e71-a244-779d29eedfde)
+![cs-2](https://github.com/HarshMarcos/Car_showroom-NextJS/assets/98093623/5a999568-5d16-4754-8f8d-a137ef514e00)
+![cs-3](https://github.com/HarshMarcos/Car_showroom-NextJS/assets/98093623/ed9b1daf-2300-4221-a13a-4bfd314cd090)
+![cs-4](https://github.com/HarshMarcos/Car_showroom-NextJS/assets/98093623/f1c0a42e-e714-4de1-a2ec-aac571f77b97)
+![cs-5](https://github.com/HarshMarcos/Car_showroom-NextJS/assets/98093623/8658f848-fe8f-4f61-985a-0a315bf7167d)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
